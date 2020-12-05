@@ -5,6 +5,6 @@
 
 
 
-## ***_Final_Output:_***
+## ***_Recognized_Image:_***
 
 <img src="https://github.com/Godson-Thomas/Number_Plate_Recognition/blob/master/Images/Recognized_Image.JPG" width="900">
