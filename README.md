@@ -1,10 +1,10 @@
 
 ## ***_Original Image:_***
 
-<img src="https://github.com/Godson-Thomas/Detecting_and_Counting_Pipes/blob/master/Task_3_Pipe_Counting.jpeg" width="400"><br>
+<img src="https://github.com/Godson-Thomas/Number_Plate_Recognition/blob/master/Images/BMW2.jpg" width="400"><br>
 
 
 
 ## ***_Final_Output:_***
 
-<img src="https://github.com/Godson-Thomas/Detecting_and_Counting_Pipes/blob/master/Results_Images/Final_Output_count.JPG" width="900">
+<img src="https://github.com/Godson-Thomas/Number_Plate_Recognition/blob/master/Images/Recognized_Image.JPG" width="900">
